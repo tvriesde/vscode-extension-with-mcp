@@ -1,0 +1,4 @@
+rdwnotes.txt
+mcp-extension/node_modules
+mcp-extension/out
+*.vsix
